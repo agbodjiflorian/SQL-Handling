@@ -1,7 +1,7 @@
 # SQL-Handling
 Data projects with SQL
 
-Here are some SQL challenges 
+Case Study 1: Danny's Diner 
 ===
 
 Questions :
