@@ -1,7 +1,7 @@
 # SQL-Handling
 Data projects with SQL
 
-Here are some SQL challenges
+Here are some SQL challenges 
 ===
 
 Questions :
