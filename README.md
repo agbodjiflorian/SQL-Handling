@@ -1,5 +1,5 @@
 # SQL-Handling
-Data projects with SQL
+Data projects with SQL (Using PostgreSQL)
 
 # 8 SQL Challenge case studies :
 
