@@ -53,7 +53,7 @@ SELECT a.val as exclusions, COUNT(a.val) as nb_times
 FROM (
 	SELECT order_id, exclusions, TRIM(f) as val
 	FROM customer_orders
-		EFT JOIN LATERAL unnest(string_to_array(exclusions, ',')) f ON true
+		LEFT JOIN LATERAL unnest(string_to_array(exclusions, ',')) f ON true
 ) a
 GROUP BY a.val
 ORDER BY COUNT(a.val) DESC
