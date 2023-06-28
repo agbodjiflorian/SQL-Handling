@@ -1,4 +1,4 @@
-CREATE DATABASE foodie_fi
+CREATE DATABASE foodie_fi 
 
 DROP TABLE IF EXISTS plans
 CREATE TABLE plans (
