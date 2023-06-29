@@ -4,6 +4,9 @@ Data projects with SQL
 Case Study #3: Foodie-Fi
 ===
 
+This case study reflects realistic questions we usually focus on for all product related analytics requests in a wide variety of industries, especially in the digital space!
+This case study focuses on using subscription style digital data to answer important business questions.
+
 Questions :
 ----
 
