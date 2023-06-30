@@ -44,7 +44,7 @@ GROUP BY a.event_type, a.event_name
 
 -- 5- What is the percentage of visits which have a purchase event?
 
-SELECT ROUND(100*(SELECT COUNT(DISTINCT visit_id) FROM events	WHERE event_type = 3)::numeric / 
+SELECT ROUND(100*(SELECT COUNT(DISTINCT visit_id) FROM events WHERE event_type = 3)::numeric / 
 			 (COUNT(DISTINCT visit_id)))
 FROM events
 
