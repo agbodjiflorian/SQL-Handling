@@ -27,6 +27,8 @@ from beginner to advanced levels using the Google BigQuery platform:
 - Regular Expressions
 - Datetime manipulation
 
+![](<images/DannyMa_Postrgesql.png>)
+
 # 8 SQL Challenge case studies :
 
 - Case Study 1 - Danny's Diner : https://8weeksqlchallenge.com/case-study-1/
